@@ -56,12 +56,12 @@ const vWords = lowerVerb.split(vW);
 console.log(vWords); 
     
 
-const myStory1 = "Once upon a time, there were four " + nWords[0] + "s named " + chars[0] + "andyn, " + chars[0] + "yler, " + chars[0] + "avin, and " + chars[0] + "andie. ",
-myStory2 = "They were best friends for life and wanted a " + aWords[0] + " adventure. They planned to " + vWords[0] ,   
-myStory3 = " to the lost Treasure of Titan. They had two " + aWords[1] + " ideas of where it could be. Either next to the " + aWords[3] + " " + nWords[2] , 
-myStory4 = " or by the " + nWords[3] + " and " + nWords[4] + ". ", 
-myStory5 = "They " + vWords[1] + " for many " + aWords[2] + " days. They could not find the long lost Treasure of Titan. Till one day, a message in a bottle, ",   
-myStory6 = "came to their aid. Their eyes " + vWords[2] + " them forward when the message guided them to the long lost Treasure of Titan, which was with their " + nWords[1] + "s named " + nWords[5] + " and " + nWords[6] + ", all along. " ; 
+const myStory1 = `Once upon a time, there were four ${nWords[0]}s named ${chars[0]}andyn, ${chars[0]}yler, ${chars[0]}avin, and ${chars[0]}andie. `,
+myStory2 = `They were best friends for life and wanted a ${aWords[0]} adventure. They planned to ${vWords[0]}` ,   
+myStory3 = ` to the lost Treasure of Titan. They had two ${aWords[1]} ideas of where it could be. Either next to the ${aWords[3]} ${nWords[2]} ` , 
+myStory4 = ` or by the ${nWords[3]} and ${nWords[4]}. `, 
+myStory5 = `They ${vWords[1]} for many ${aWords[2]} days. They could not find the long lost Treasure of Titan. Till one day, a message in a bottle, `,   
+myStory6 = `came to their aid. Their eyes ${vWords[2]} them forward when the message guided them to the long lost Treasure of Titan, which was with their ${nWords[1]}s named ${nWords[5]} and ${nWords[6]}, all along. ` ; 
 
 
 
