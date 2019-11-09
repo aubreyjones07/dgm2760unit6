@@ -54,7 +54,7 @@ myStory4 = `They also looked by the ${nounWords[1]}, ${nounWords[2]}, and ${noun
 myStory5 = `They could not ${verbsWords[1]} to the long lost Treasure of Titan. Till one day, a message in a bottle, `,   
 myStory6 = `came to their aid. Their eyes ${verbsWords[2]}ed them forward when the message guided them to the long lost Treasure of Titan, which was with their ${nounWords[4]}s named ${nounWords[5]} and ${nounWords[6]}, all along. ` ; 
 
-
+  
 
 
 
